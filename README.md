@@ -1,2 +1,3 @@
-# hong-kong
-Art Space Hong Hong
+# Art Space Hong Hong
+
+Repository for "Art Space Hong Hong" website.
